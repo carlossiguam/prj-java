@@ -25,3 +25,6 @@ sudo dnf install java-17-openjdk* # Installs Oracle's JDK (Java Development Kit
 
 Como resultado de esto es 
 ![Alt text](pictures/javaversion.png)
+
+como se ve en el tutorial de spring boot al parecer me obliga a que utilice un build tool como son graddle o maven, entonces si que pienso que debemos instalarlo antes.
+![Alt text](pictures/spring_init.png)
