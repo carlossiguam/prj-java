@@ -28,3 +28,19 @@ Como resultado de esto es
 
 como se ve en el tutorial de spring boot al parecer me obliga a que utilice un build tool como son graddle o maven, entonces si que pienso que debemos instalarlo antes.
 ![Alt text](pictures/spring_init.png)
+
+
+## Gradle install
+Como se los habia mencionado estoy en ubuntu, bueno aqui nos dice que graddle es una herramienta de construccion de proyectos de codigo 
+
+Nos recomienda que instalemos un SDKMAN que es un administrador de paquetes para graddle, pues le voy a hacer caso, quien soy yo para oponerme.
+
+```bash
+$ curl -s "https://get.sdkman.io" | bash
+```
+```bash
+$ sdk install gradle
+```
+
+
+
