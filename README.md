@@ -22,3 +22,6 @@ sudo apt update && sudo apt install default-jdk -y # Installs OpenJDK version of
 ```bash
 sudo dnf install java-17-openjdk* # Installs Oracle's JDK (Java Development Kit
 ```
+
+Como resultado de esto es 
+![Alt text](image.png)
