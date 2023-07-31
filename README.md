@@ -24,4 +24,4 @@ sudo dnf install java-17-openjdk* # Installs Oracle's JDK (Java Development Kit
 ```
 
 Como resultado de esto es 
-![Alt text](image1.png)
+![Alt text](pictures/javaversion.png)
