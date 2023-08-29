@@ -42,5 +42,9 @@ $ curl -s "https://get.sdkman.io" | bash
 $ sdk install gradle
 ```
 
+Para este repo el primer ejemplo es hecho con spring-gradle y kotlin sus principales protagonistas ademas de java.
+
+
+![Alt text](pictures/spring-gradle_kotlin.png)
 
 
